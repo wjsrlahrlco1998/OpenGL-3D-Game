@@ -1,4 +1,4 @@
-# opencv를 이용한 3D Game
+# opengl를 이용한 3D Game
 
 
 
@@ -8,7 +8,7 @@
 
 - skill
   - blender
-  - opencv
+  - opengl
 
 
 
